@@ -1,4 +1,4 @@
-# Workbench
+# Webpack boilerplate
 
 ## Local Setup
 1. Pull this branch into your system.
